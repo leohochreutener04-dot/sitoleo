@@ -66,14 +66,13 @@ main{
 .hero {
   position: relative;
   height: 80vh;
-  background: url("imm/Img.1.jpg") center/cover no-repeat;
+  background: url("imm/img.1.jpg") center/cover no-repeat;
   display: flex;
   align-items: center;
 }
 
 .hero.end {
-  background: url("imm/") center/cover no-repeat;
-  background: url("imm/Img.5.jpg") center/cover no-repeat;
+  background: url("imm/img.5.jpg") center/cover no-repeat;
   position: relative;
   height: 80vh;
   
