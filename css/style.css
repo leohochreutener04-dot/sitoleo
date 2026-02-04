@@ -133,7 +133,7 @@ main{
 .block img {
   width: 100%;
   height:auto;
- background: url(imm/3.jpg) center/cover no-repeat;
+ background: url(imm/3.jpg) no-repeat fixed center;
  height:600px;
   position:relative;
   filter:grayscale(100%);
