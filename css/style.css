@@ -131,6 +131,7 @@ main{
 }
 
 .block img {
+  background-color: aqua;
   width: auto;
  height:600px;
   position:relative;
