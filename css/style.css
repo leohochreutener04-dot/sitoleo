@@ -114,7 +114,7 @@ main{
 
 .block {
   margin-bottom: 4rem;
-  
+  background-color: aqua;
 }
 
 .two-cols {
@@ -131,7 +131,7 @@ main{
 }
 
 .block img {
-  background-color: aqua;
+  
   width: auto;
  height:600px;
   position:relative;
