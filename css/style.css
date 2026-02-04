@@ -131,7 +131,7 @@ main{
 }
 
 .block img {
-  max-width: 100%;
+  width: auto;
  height:600px;
   position:relative;
   filter:grayscale(100%);
